@@ -8,3 +8,5 @@ In order to identify and flag each ETFs we use clustering algorithm K-means and 
 later we use a LASSO regression to obtain the weights of each of our ETFs in the mystery allocation based on the ETFs time series and the mystery allocation time series.
 
 Please refer to the attached jupyter notebook for further details
+
+Lastly we failed to implement the Kalman filter to do the same exercice but with a mystery allocation varying each day. The code is yet let in the notebook.
